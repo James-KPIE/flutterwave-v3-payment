@@ -1,5 +1,7 @@
 # flutterwave_payment
 
+This flutter package for Flutterwave is compartible with Flutter 3. Feel free to use in your project
+
 A new Flutter plugin for flutterwave payment integration
 This fluterwave_payment plugin is a fork from - [rave_flutter](https://pub.dev/packages/rave_flutter) plugin which is no longer being updated so flutterwave_payment is born to fix a lot of issues within it. 
 
